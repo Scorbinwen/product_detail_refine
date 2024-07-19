@@ -10,7 +10,20 @@
 > python main.py
 
 ## 结果展示
-前景背景贴图            |  SD Inpaint低幅度重绘前景背景 | 本算法优化细节结果
-:-------------------------:|:-------------------------:|:-------------------------:
-![1690784723456_3_ref](https://github.com/user-attachments/assets/6f16927f-6a8b-4259-bcf4-2606445449cf) | ![1690784723456_3](https://github.com/user-attachments/assets/632a1b53-c763-4364-95f3-4f6a7cd8c57c) | ![mix_clone](https://github.com/user-attachments/assets/4b086fb3-615e-40a3-8877-ef04dcf57a11)
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <img src="https://github.com/user-attachments/assets/6f16927f-6a8b-4259-bcf4-2606445449cf" style="width:100%;">
+      <br>前景背景贴图
+    </td>
+    <td style="text-align:center;">
+      <img src="https://github.com/user-attachments/assets/632a1b53-c763-4364-95f3-4f6a7cd8c57c" style="width:100%;">
+      <br>SD Inpaint低幅度重绘前景背景
+    </td>
+    <td style="text-align:center;">
+      <img src="https://github.com/user-attachments/assets/4b086fb3-615e-40a3-8877-ef04dcf57a11" style="width:100%;">
+      <br>本算法优化细节结果
+    </td>
+  </tr>
+</table>
 
